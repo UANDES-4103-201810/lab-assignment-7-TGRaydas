@@ -1,0 +1,188 @@
+*{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.nav-bar
+{
+    margin-top: -7px;
+    width: 100%;
+    height: 46px;
+    background-color: white;
+}
+
+.nav-bar-home
+{
+    width: 30px;
+    position: absolute;
+    margin-left: 15%;
+    height: 46px;
+
+}
+.nav-bar-language
+{
+    position: absolute;
+    margin-left: 70%;
+    height: 46px;
+    width: 200px;
+
+}
+.nav-bar-about
+{
+    position: absolute;
+    margin-left: 20%;
+    height: 46px;
+}
+.nav-bar-language span
+{
+    margin-top: 10px;
+    position: absolute;
+
+}
+
+.nav-bar-home span
+{
+    margin-top: 10px;
+    position: absolute;
+}
+.nav-bar-about span
+{
+    margin-top: 10px;
+    position: absolute;
+}
+.nav-bar-home span:hover
+{
+    margin-top: 10px;
+    color: blue;
+    position: absolute;
+}
+.nav-bar-about span:hover
+{
+    margin-top: 10px;
+    color: blue;
+    position: absolute;
+}
+
+.body-class
+{
+    background-color: #e6ecf0;
+}
+
+.login-form
+{
+    border: #999999 1px solid;
+    display: block;
+    background-color: white;
+    width: 60%;
+    margin-top: 30px;
+    margin-left: 20%;
+    height: 300px;
+}
+
+.box-header
+{
+    position: absolute;
+    font-weight: bold;
+    color: black;
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.email-form
+{
+    height: 20px;
+    border-radius: 100px;
+    position: absolute;
+    font-size: 14px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.password-form
+{
+    border-radius: 100px;
+    height: 20px;
+    position: absolute;
+    font-size: 14px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+.link-blue
+{
+    color: cornflowerblue;
+}
+
+.request-div
+{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 130px;
+}
+
+.login-bottom-div
+{
+    position: absolute;
+    background-color: #f5f8fa;
+    margin-top: 220px;
+    height: 80px;
+    width: 59%;
+}
+
+.new-on-twitter
+{
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 100px;
+}
+.sign-up
+{
+    margin-top: 10px;
+    position: absolute;
+    color: cornflowerblue;
+    margin-left: 220px;
+}
+
+.first-row
+{
+    position: absolute;
+    width: 100%;
+}
+.second-row
+{
+    margin-top: 25px;
+    position: absolute;
+    width: 100%;
+}
+
+.already-using-twitter
+{
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.activate-account
+{
+    margin-top: 10px;
+    position: absolute;
+    color: cornflowerblue;
+    margin-left: 400px;
+}
+
+.login-button
+{
+    border-radius: 100px;
+    color: white;
+    font-weight: bold;
+    background-color: dodgerblue;
+    height: 40px;
+    width: 80px;
+}
+.twitter-image
+{
+    margin-top: 7px;
+    width: 25px;
+    height: 25px;
+}
